@@ -26,7 +26,7 @@ namespace mongodb
             process.StartInfo.RedirectStandardOutput = true;
             process.StartInfo.RedirectStandardError = true;
             process.StartInfo.CreateNoWindow = true;
-            string argus = "mongoimport -h 10.32.5.198 -d demo -c protocal /var/test/test-2016111609.txt";
+            string argus = "mongoimport -h 127.0.0.1 -d demo -c protocal /var/test/test-2016111609.txt";
             process.StartInfo.Arguments = argus;
             Hashtable filehash = new Hashtable();
             try
