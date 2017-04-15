@@ -1,0 +1,6 @@
+D:\vs2015代码\mongodb\mongodb\bin\Debug\mongodb.exe.config
+D:\vs2015代码\mongodb\mongodb\bin\Debug\mongodb.exe
+D:\vs2015代码\mongodb\mongodb\bin\Debug\mongodb.pdb
+D:\vs2015代码\mongodb\mongodb\obj\Debug\mongodb.exe
+D:\vs2015代码\mongodb\mongodb\obj\Debug\mongodb.pdb
+D:\vs2015代码\mongodb\mongodb\obj\Debug\mongodb.csprojResolveAssemblyReference.cache
